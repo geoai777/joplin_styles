@@ -1,0 +1,14 @@
+/*
+* p0rc0_r0ss0 userstyle.css for joplin app
+*/
+.table-of-contents {
+	background-color:white;
+	border-left: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	float:right;
+	margin: -1rem -0.75rem 0.5rem 0.5rem;
+	padding: 0.25rem;
+	box-shadow:4px 2px 4px;
+	font-size: 12px;
+	line-height: 1rem;
+}
