@@ -1,6 +1,23 @@
 /*
 * p0rc0_r0ss0 userstyle.css for joplin app
 */
+
+/* DO REMEMBER TO COMMENT OUT STYLE YOU DO NOT NEED */
+/* OTHERWIZE LATTER STYLE WILL BE USED i.e. white one */
+/* dark version */
+.table-of-contents {
+	background-color:#1d2024;
+	border-left: 1px solid #555;
+	border-bottom: 1px solid #555;
+	float:right;
+	margin: -1rem -0.75rem 0.5rem 0.5rem;
+	padding: 0.25rem;
+	box-shadow:4px 2px 4px;
+	font-size: 12px;
+	line-height: 1rem;
+}
+
+/* white version */
 .table-of-contents {
 	background-color:white;
 	border-left: 1px solid #ddd;
